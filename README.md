@@ -3,7 +3,7 @@
 ## I'm a Full Stack JavaScript Developer
 - I’m currently working as a Front End Developer with React.
 - I’m currently learning everything about web development and javascript specially.
-- I am imbued with a strong desire to learn and evolve in my daily life.
+- I'm imbued with a strong desire to learn and evolve in my daily life.
 - ⚡ Next Goal: Contribute to Open Source projects.
 
 ### Connect with me:
@@ -20,7 +20,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="NPM" width="26px" src="https://raw.githubusercontent.com/npm/cli/latest/docs/src/images/npm-icon.png" />
+<img align="left" alt="NPM" width="26px" src="https://raw.githubusercontent.com/ruyadorno/npm-community-landing-page/master/src/images/npm-icon.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" />
 <img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
@@ -40,7 +40,7 @@
 
 <img align="left" alt="Riad-ENNAIM's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Riad-ENNAIM&show_icons=true&hide_border=true" />
 
-[website]: https://www.riadennaim.com
+[website]: https://riadennaim.com
 [twitter]: https://twitter.com/riadennaim
 [linkedin]: https://linkedin.com/in/riad-ennaim
  
